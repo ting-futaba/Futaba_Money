@@ -2,14 +2,11 @@
 
 離線優先的個人 Android 帳本，支援 Android 8.0 以上。管理日常收支、拆分付款、固定排程、分類預算、外幣帳戶及股票持倉。
 
-## 最新版本 v0.8.4
+## 最新版本 v0.8.5
 
-2026-11-21 · 交易紀錄排版
+新增及編輯帳戶時可選擇 33 個離線圖示，也可恢復預設。
 
-- 最近紀錄的金額與明細箭頭同列置中，整列可點。
-- 短金額依內容取寬，版面可同時容納日常台幣紀錄與美元股票交易。
-
-[下載 v0.8.4 APK](https://github.com/ting-futaba/Futaba_Money/releases/tag/v0.8.4)
+[下載 v0.8.5 APK](https://github.com/ting-futaba/Futaba_Money/releases/tag/v0.8.5)
 
 ## 功能
 
